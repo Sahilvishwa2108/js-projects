@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+.box-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.box{
+    height: 5rem;
+    width: 5rem;
+    margin: 1rem 2rem;
+    border: 2px solid black;
+}
+#yellow{
+    background: yellow;
+}
+#green{
+    background: green;
+}
+#blue{
+    background: blue;
+}
+#red{
+    background: red;
+}
